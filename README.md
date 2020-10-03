@@ -1,17 +1,9 @@
 # RBXStudioCameraBypass
-There is a issue about a roblox studio camera being at fixed, I found a solution for this! (Download, it's free.)
+There is an issue about the Roblox Studio camera being fixed, which this repository solves.
 
+## Installation and Usage
 
+Locate your Roblox Studio directory and go into the Plugins directory. In there, add a new lua file with the main file of this repository as its content. Then restart studio and the issue will be resolved.
 
-
-Windows Versions (will not work in windows xp because you can't play roblox in windows xp): C:\Users\User\AppData\Local\Roblox\Plugins
-
-
-
-
-if you don't have windows and you use something else, find Plugins and open plugin item. (If it gives you a error, you might have to create new item named Plugins.)
-
-
-
-
-README.md updated as of 30/09/2020
+## License
+[Apache-2.0](https://github.com/robloxianstudio123/RBXStudioCameraBypass/blob/master/LICENSE)
